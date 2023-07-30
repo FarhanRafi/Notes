@@ -1,0 +1,5 @@
+# Compiled files
+bin/
+obj/
+Obj/       # git is case sensitive
+.vs/
